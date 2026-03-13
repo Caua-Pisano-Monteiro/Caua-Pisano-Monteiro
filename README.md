@@ -1,6 +1,6 @@
 ## Olá, me chamo Cauã👋
 
-# cursando Sistema de Informação
+**cursando Sistema de Informação**
 
 👨🏻‍💻 # Estudando para se tornar um **Analista de Dados junior**    
 
