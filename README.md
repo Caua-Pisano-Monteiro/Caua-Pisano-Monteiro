@@ -8,4 +8,4 @@
 
 🔷 Power BI (Básico)
 
-🔷 Analisando e Explorando Dados 
+🔷 Analisando e Explorando Dados (Básico)
