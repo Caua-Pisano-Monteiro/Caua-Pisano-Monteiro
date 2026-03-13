@@ -1,6 +1,7 @@
-## Olá 👋
+## Olá, me chamo Cauã👋
 
-
+🚀 # Analista de Dados junior   
+   # Cursando 
 <!--
 **Caua-Pisano-Monteiro/Caua-Pisano-Monteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
